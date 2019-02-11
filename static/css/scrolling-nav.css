@@ -3,11 +3,13 @@
  * Copyright 2013-2017 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-scrolling-nav/blob/master/LICENSE)
  */
- background-color- green
-#Doggo{
-    width: 25%;
-    height: 25%;
-    center;
+}
+.bg-primary{
+    background-color: #f69d3c !important;
+}
+#Dog{
+    width: 50%;
+    height: 50%;
 }
 header {
   padding: 154px 0 100px;
@@ -22,3 +24,11 @@ header {
 section {
   padding: 150px 0;
 }
+
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+}
+
